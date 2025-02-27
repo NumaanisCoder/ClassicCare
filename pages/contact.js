@@ -1,5 +1,7 @@
 import { Jost } from "next/font/google";
 import Image from "next/image";
+import Link from "next/link";
+
 
 const jost = Jost({ subsets: ["latin"], style: ["normal"], weight: ["500"] });
 
